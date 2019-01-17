@@ -11,8 +11,8 @@ const render = () => {
 };
 
 const fancyLog = () => {
-	console.log("%c Rendered with � � � ", "background: purple; color: #FFF");
-	console.log(store.getState());
+	// console.log("%c Rendered with � � � ", "background: purple; color: #FFF");
+	// console.log(store.getState());
 }
 
 render();
